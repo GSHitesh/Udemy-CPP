@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C++" Database="" Version="10000">
+  <Project Name="Hello_World" Path="Hello_World/Hello_World.project" Active="No"/>
+  <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="No"/>
+  <Project Name="Room_cleaning" Path="Room_cleaning/Room_cleaning.project" Active="No"/>
+  <Project Name="Template" Path="Template/Template.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Challenge1" ConfigName="Debug"/>
+      <Project Name="Hello_World" ConfigName="Debug"/>
+      <Project Name="Room_cleaning" ConfigName="Debug"/>
+      <Project Name="Template" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Hello_World" ConfigName="Release"/>
+      <Project Name="Challenge1" ConfigName="Release"/>
+      <Project Name="Room_cleaning" ConfigName="Release"/>
+      <Project Name="Template" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
